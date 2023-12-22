@@ -1,0 +1,15 @@
+a.direct:link {
+    text-decoration: none;
+  }
+  
+a.direct:visited {
+    text-decoration: none;
+  }
+  
+  a.direct:hover {
+    text-decoration: underline;
+  }
+  
+  a.direct:active {
+    text-decoration: underline;
+  }
